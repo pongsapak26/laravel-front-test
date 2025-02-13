@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.inputselect{
+    @apply px-14 py-3 bg-white text-abbey rounded-lg;
+}
+
+.inputselect.disabled{
+    @apply px-14 py-3 bg-abbey-100 text-abbey rounded-lg;
+}
+
+.text-ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

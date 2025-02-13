@@ -12,7 +12,7 @@
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/laravel-front-test.git
+    git clone https://github.com/pongsapak26/laravel-front-test
     cd laravel-front-test
     ```
 
